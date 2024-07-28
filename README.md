@@ -1,5 +1,5 @@
 # Telecommunication
-Creating a comprehensive README for your WebRTC video chat project is crucial for helping others understand your project and how to use it. Here's a sample README template that you can adapt to your project:
+
 
 ---
 
